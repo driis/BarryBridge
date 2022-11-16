@@ -1,3 +1,6 @@
+# ARCHIVED:
+As good as my intentions was with this code, Barry shut down operations in early 2022, so everything here is obsolete.
+
 # BarryBridge
 A (very basic) integration of [Barry's](https://barry.energy/) API in C# / .NET6
 
